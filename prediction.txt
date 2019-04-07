@@ -1,0 +1,11 @@
+
+
+The Prediction 1 day ahead is Light rain or 0.1 to 10 mm.
+
+
+The Prediction 2 days ahead is Light rain or 0.1 to 10 mm.
+
+
+The Prediction 3 days ahead is Not rain or 0 mm.
+
+

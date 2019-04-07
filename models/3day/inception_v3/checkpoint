@@ -1,0 +1,6 @@
+model_checkpoint_path: "E:/project_off/afmid/3day/newthai3/modelsss/inception_v3\\model.ckpt-38000"
+all_model_checkpoint_paths: "E:/project_off/afmid/3day/newthai3/modelsss/inception_v3\\model.ckpt-30000"
+all_model_checkpoint_paths: "E:/project_off/afmid/3day/newthai3/modelsss/inception_v3\\model.ckpt-32000"
+all_model_checkpoint_paths: "E:/project_off/afmid/3day/newthai3/modelsss/inception_v3\\model.ckpt-34000"
+all_model_checkpoint_paths: "E:/project_off/afmid/3day/newthai3/modelsss/inception_v3\\model.ckpt-36000"
+all_model_checkpoint_paths: "E:/project_off/afmid/3day/newthai3/modelsss/inception_v3\\model.ckpt-38000"
